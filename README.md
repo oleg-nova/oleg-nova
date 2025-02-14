@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👨‍💻 About me
+TBD
+
+🔖 Resources
+TBD
+
 <!--
 **oleg-nova/oleg-nova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
