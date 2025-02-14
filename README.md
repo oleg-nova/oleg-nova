@@ -1,9 +1,7 @@
-## Hi there 👋
-
-👨‍💻 About me
+## About me
 TBD
 
-🔖 Resources
+## Resources
 TBD
 
 <!--
